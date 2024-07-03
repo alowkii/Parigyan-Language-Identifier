@@ -1,8 +1,9 @@
 # Language Identifier using Naive Bayes Classifier
 
 **Important**
-Find the dataset at: https://drive.google.com/drive/folders/1ZOeCY_AByF9jiVKod6ZHzQJQV5xLv5F7?usp=sharing
-Also make sure you create an enviornment and run all requirements.txt as suggested
+1. Find the dataset at: https://drive.google.com/drive/folders/1ZOeCY_AByF9jiVKod6ZHzQJQV5xLv5F7?usp=sharing
+2. Also make sure you create an enviornment and run all requirements.txt as suggested.
+3. The program also has the API connected as service_account_Google.json file with support of Google-Speech-to-Text conversion
 
 ## Overview
 
