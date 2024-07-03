@@ -8,11 +8,11 @@
 
 ## Overview
 
-This project implements a Language Identifier that uses a Naive Bayes Classifier to predict the language of a given text. The classifier is trained on a dataset containing text samples in multiple languages, achieving an accuracy of 92.6%.
+This project implements a Language Identifier that uses a Naive Bayes Classifier to predict the language of a given text. The classifier is trained on a dataset containing text samples in multiple languages, achieving an accuracy of 92.64%.
 
 ## Features
 
-- High Accuracy: Achieves an accuracy of 89.78% on the test dataset.
+- High Accuracy: Achieves an accuracy of 92.64% on the test dataset.
 - Multilingual Support: Can identify a variety of languages.
 - Naive Bayes Classifier: Utilizes the simplicity and efficiency of the Naive Bayes algorithm.
 - Image to Text: Supports extracting text from images and identifying the language.
