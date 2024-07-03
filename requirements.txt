@@ -5,3 +5,5 @@ pillow
 pytesseract
 sounddevice
 soundfile
+pydub
+google-cloud-speech
