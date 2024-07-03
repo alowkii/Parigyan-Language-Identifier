@@ -1,5 +1,8 @@
 # Language Identifier using Naive Bayes Classifier
-Update 101
+
+**Important**
+Find the dataset at: https://drive.google.com/drive/folders/1ZOeCY_AByF9jiVKod6ZHzQJQV5xLv5F7?usp=sharing
+Also make sure you create an enviornment and run all requirements.txt as suggested
 
 ## Overview
 
@@ -111,7 +114,7 @@ python main.py
 
 **image_to_text.py:** Extracts text from images and predicts the language and stores in input/input.txt.
 
-**main.py:** Loads the model and predicts language for a given text file or image.
+**main.py:** Loads the model and opens the GUI for the program.
 
 ## README: Project documentation.
 
