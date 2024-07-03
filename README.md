@@ -1,9 +1,10 @@
-# Language Identifier using Naive Bayes Classifier
+# Parigyan: Language Identifier using Naive Bayes Classifier
 
 **Important**
 1. Find the dataset at: https://drive.google.com/drive/folders/1ZOeCY_AByF9jiVKod6ZHzQJQV5xLv5F7?usp=sharing
-2. Also make sure you create an enviornment and run all requirements.txt as suggested.
-3. The program also has the API connected as service_account_Google.json file with support of Google-Speech-to-Text conversion
+2. Store the dataset in the main Parigyan: Language Identifier folder
+3. Also make sure you create an enviornment and run all requirements.txt as suggested.
+4. The program also has the API connected as service_account_Google.json file with support of Google-Speech-to-Text conversion
 
 ## Overview
 
