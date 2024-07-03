@@ -114,7 +114,9 @@ python main.py
 
 **requirements.txt:** Lists the Python dependencies.
 
-**image_to_text.py:** Extracts text from images and predicts the language and stores in input/input.txt.
+**image_to_text.py:** Extracts text from images and stores in input/input.txt.
+
+**voice_to_text.py:** Extracts voice from audio input and stores in input/input.txt.
 
 **main.py:** Loads the model and opens the GUI for the program.
 
