@@ -38,7 +38,7 @@ def predict_language_from_entry():
             messagebox.showwarning("Input Error", "Please enter some text.")
 
     window_text_loader = tk.Tk()
-    window_text_loader.title("Text Loader")
+    window_text_loader.title("Pargiyan Language Identifier")
     window_text_loader.configure(bg="#1E1E1E")
     window_text_loader.geometry("450x200")
     window_text_loader.resizable(False, False)
@@ -66,6 +66,7 @@ def relative_to_assets(path: str) -> Path:
 
 window = Tk()
 
+window.title("Pargiyan Language Identifier")
 window.geometry("900x500")
 window.configure(bg = "#1E1E1E")
 
@@ -133,7 +134,7 @@ canvas.create_text(
     900/2,
     100/2,
     anchor="center",
-    text="Language Identifier",
+    text="Pargiyan Language Identifier",
     fill="#FFFFFF",
     font=("Poppins Thin", 40 * -1)
 )
