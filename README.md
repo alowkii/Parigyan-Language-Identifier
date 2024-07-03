@@ -126,8 +126,8 @@ python main.py
 
 ## GUI
 ![image](https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/5be14fe8-1c32-4dba-aaa7-bb6c373470c7)
-
-
+![image](https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/2c5719aa-1ca8-42a6-bad8-6769c872c3cc)
+![image](https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/2aa1ae93-9be6-4d95-8a32-db7cdc8f38d7)
 
 ## README: Project documentation.
 
