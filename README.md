@@ -126,11 +126,11 @@ python main.py
 
 ## GUI
 - Main:
-<img src="https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/5be14fe8-1c32-4dba-aaa7-bb6c373470c7" width="900"></br>
+<img src="https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/5be14fe8-1c32-4dba-aaa7-bb6c373470c7" width="900"><br />
 - To record voice:
-<img src="https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/cab4f71e-da67-48d0-87e8-279c498051d3" width="600"></br>
+<img src="https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/cab4f71e-da67-48d0-87e8-279c498051d3" width="600"><br />
 - To upload text:
-<img src="https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/2aa1ae93-9be6-4d95-8a32-db7cdc8f38d7" width="600"></br>
+<img src="https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/2aa1ae93-9be6-4d95-8a32-db7cdc8f38d7" width="600"><br />
 
 ## README: Project documentation.
 
