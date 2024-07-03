@@ -51,7 +51,7 @@ Install Tesseract OCR for text extraction from images. This is totally optional 
 
 ### [Optional] ffmpeg Installation:
 
-Install ffmpeg and put it in the path for voice extraction from audio file. If you don't install this, you might get a warning on your terminal. So, if you don't install, just hope and pray it still works correctly. Although optional marking, know that it only supports only few languages, given in the google api itself at: https://cloud.google.com/speech-to-text/docs/speech-to-text-supported-languages
+Install ffmpeg and put it in the path for voice extraction from audio file. If you don't install this, you might get a warning on your terminal. So, if you don't install, just hope and pray it still works correctly. Although optional marking, know that it only supports only few languages, given in the google api doc itself at: https://cloud.google.com/speech-to-text/docs/speech-to-text-supported-languages
 
 #### Make sure to change the directory path in image_to_text.py
 
