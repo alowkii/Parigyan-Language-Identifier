@@ -49,6 +49,10 @@ pip install -r requirements.txt
 
 Install Tesseract OCR for text extraction from images. This is totally optional and supports only a few languages. Only if you are going to extract data from the **input.txt** file.
 
+### [Optional] ffmpeg Installation:
+
+Install ffmpeg andput it int the path for voice extraction from audio file. If you don't install this, you might get a warning on your terminal. So, if you don't install, just hope and pray it still works coorectly. Although I marked it optional, supports only a few languages.
+
 #### Make sure to change the directory path in image_to_text.py
 
 Download and install from Tesseract OCR.
@@ -90,7 +94,7 @@ python image_to_text.py
 
 ### Run the full program
 
-You can use the CLI to identify the language of a given text file:
+You can use the GUI to identify the language of a given text file:
 
 ```bash
 python main.py
@@ -134,7 +138,7 @@ python main.py
 
 ## Performance
 
-The Naive Bayes Classifier achieves an accuracy of 89.78% on the test dataset. This performance can vary based on the quality and diversity of the training data.
+The Naive Bayes Classifier achieves an accuracy of 92.64% on the test dataset. This performance can vary based on the quality and diversity of the training data.
 
 ## Contributing
 
