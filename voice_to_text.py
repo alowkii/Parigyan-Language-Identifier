@@ -31,7 +31,10 @@ def recognize_voice():
         encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
         sample_rate_hertz=44100,
         language_code="en-US",  # Default language, can be removed if using alternative language codes
-        alternative_language_codes=["en-US", "es-ES", "fr-FR", "de-DE", "hi-IN", "it-IT", "ja-JP", "ko-KR", "pt-BR", "ru-RU", "zh-CN", "ne-NP", "ar-AE", "bn-BD", "cs-CZ", "da-DK", "nl-NL", "fi-FI", "el-GR", "he-IL", "hu-HU", "id-ID", "ga-IE", "ms-MY", "no-NO", "pl-PL", "ro-RO", "sk-SK", "sl-SI", "sv-SE", "th-TH", "tr-TR", "uk-UA", "vi-VN"] 
+        alternative_language_codes=["en-US", "es-ES", "fr-FR", "de-DE", "hi-IN", "it-IT", "ja-JP", "ko-KR", "pt-BR", "ru-RU", 
+                                    "zh-CN", "ne-NP", "ar-AE", "bn-BD", "cs-CZ", "da-DK", "nl-NL", "fi-FI", "el-GR", "he-IL", 
+                                    "hu-HU", "id-ID", "ga-IE", "ms-MY", "no-NO", "pl-PL", "ro-RO", "sk-SK", "sl-SI", "sv-SE", 
+                                    "th-TH", "tr-TR", "uk-UA", "vi-VN", "kn-IN", "ta-IN", "te-IN", "ml-IN", "mr-IN", "pa-IN",] 
     )
 
     # Perform the speech recognition
