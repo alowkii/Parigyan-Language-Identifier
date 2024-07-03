@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import font
+from voice_to_text import recognize_voice
 import sounddevice as sd
 import soundfile as sf
 import time
@@ -56,13 +57,14 @@ def record_voice():
             if os.path.exists(filename):
                 os.remove(filename)
             sf.write(filename, audio_data, samplerate=sd.default.samplerate)
+            recognize_voice()
             root.destroy()
 
     # Create the main Tkinter window
     root = tk.Tk()
     root.geometry("600x500")
     root.resizable(False, False)
-    root.title("Voice Recorder")
+    root.title("Parigyan Voice Recorder")
     root.config(bg="#1E1E1E")
 
     # Load the custom font
