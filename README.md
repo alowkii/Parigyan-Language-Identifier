@@ -125,7 +125,8 @@ python main.py
 **main.py:** Loads the model and opens the GUI for the program.
 
 ## GUI
-<img src"https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/9bea87fe-2d73-4d9c-9635-400a9dee9d06">
+![image](https://github.com/alowkii/Parigyan-Language-Identifier/assets/51901277/5be14fe8-1c32-4dba-aaa7-bb6c373470c7)
+
 
 
 ## README: Project documentation.
